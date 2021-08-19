@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jaypae95})](https://solved.ac/{jaypae95})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaypae95)](https://solved.ac/jaypae95)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jaypae950@gmail.com)
 <!--
