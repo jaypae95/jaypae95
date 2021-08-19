@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jaypae95})](https://solved.ac/{jaypae95})
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jaypae950@gmail.com)
 <!--
 **jaypae95/jaypae95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
